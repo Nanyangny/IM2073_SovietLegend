@@ -17,12 +17,15 @@ Survival is the key!
 
 <b>Features</b>
 * Realistic Environmental setup
-<img src="images/environment setup">
+<img src="./images/environment_setup.png">
 * Change of weapons
 * Realtime UI status tracker
+<img src="./images/ui.png">
 * Energy/Health supply mechanism
 * Level setting for different stages
 * Visual and audio effects of attack and player's movement
+<img src="./images/visual_effect.png">
+<p align="center">The blood, bullet holes and firing effect</p>
 * Warning message and game dialogues
 
 
