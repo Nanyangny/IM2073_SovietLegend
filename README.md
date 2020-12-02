@@ -17,9 +17,13 @@ Survival is the key!
 
 <b>Features</b>
 * Realistic Environmental setup
+<img src="images/environment setup">
 * Change of weapons
 * Realtime UI status tracker
 * Energy/Health supply mechanism
 * Level setting for different stages
 * Visual and audio effects of attack and player's movement
 * Warning message and game dialogues
+
+
+The full game source code can be found <a href="https://drive.google.com/file/d/1n_FDCk1v_RVvQhnO4CzgjvPJ8YlYhSrw/view?usp=sharing" >Here</a>
